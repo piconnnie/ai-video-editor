@@ -1,10 +1,9 @@
-# Vaibhav AI Video Editor
+# AI Video Editor
 
-**One command, raw clip to finished video.** Vaibhav AI Video Editor is a Claude Code skill that runs your video editing skills as one professional pipeline: it cuts silences and retakes, plans the edit from what you say, adds captions, motion graphics, face-tracked effects, transitions, camera moves, b-roll, sound effects and music, checks its own work, and exports the final MP4.
+**One command, raw clip to finished video.** AI Video Editor is a Claude Code skill that runs your video editing skills as one professional pipeline: it cuts silences and retakes, plans the edit from what you say, adds captions, motion graphics, face-tracked effects, transitions, camera moves, b-roll, sound effects and music, checks its own work, and exports the final MP4.
 
 It doesn't replace your other video skills. It directs them: each moment in your video goes to the tool that does it best, and everything follows one plan that you approve first.
 
-Made by Vaibhav ([@vaibhavv.ai](https://instagram.com/vaibhavv.ai)).
 
 ## Make a video with an AI voiceover (quick start)
 
